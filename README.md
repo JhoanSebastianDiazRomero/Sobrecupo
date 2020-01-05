@@ -4,7 +4,7 @@ SobreCupo es una aplicación web que permite a los estudiantes y profesores de l
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia MIT. Para más detalles vea el archivo [LICENCIA.md](LICENCIA.md)
+Este proyecto está licenciado bajo la licencia MIT. Para más detalles vea el archivo [LICENSE](LICENSE).
 
 ## Autores
 
